@@ -1,0 +1,5 @@
+/* Menu principal */
+.dropdown {
+    position: relative; /* Assegura que o submenu seja posicionado em relação ao menu */
+    z-index: 1000; /* Coloque um z-index alto para garantir que o menu principal fique acima da tabela */
+}
